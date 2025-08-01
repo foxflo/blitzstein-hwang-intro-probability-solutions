@@ -1,2 +1,1 @@
-# blitzstein-hwang-intro-probability-solutions
-Rough solutions to Blitzstein and Hwang's Introduction to Probability
+My rough solutions to the end of chapter exercises in Blitzstein and Hwang's excellent book Introduction to Probability. The book (and certain solutions) can be accessed at https://stat110.hsites.harvard.edu/. 
